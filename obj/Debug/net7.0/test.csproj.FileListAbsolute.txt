@@ -1,0 +1,17 @@
+/home/irli/Projects/test/bin/Debug/net7.0/test
+/home/irli/Projects/test/bin/Debug/net7.0/test.deps.json
+/home/irli/Projects/test/bin/Debug/net7.0/test.runtimeconfig.json
+/home/irli/Projects/test/bin/Debug/net7.0/test.dll
+/home/irli/Projects/test/bin/Debug/net7.0/test.pdb
+/home/irli/Projects/test/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/irli/Projects/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/home/irli/Projects/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/irli/Projects/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/irli/Projects/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/irli/Projects/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/irli/Projects/test/obj/Debug/net7.0/test.csproj.CopyComplete
+/home/irli/Projects/test/obj/Debug/net7.0/test.dll
+/home/irli/Projects/test/obj/Debug/net7.0/refint/test.dll
+/home/irli/Projects/test/obj/Debug/net7.0/test.pdb
+/home/irli/Projects/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/irli/Projects/test/obj/Debug/net7.0/ref/test.dll

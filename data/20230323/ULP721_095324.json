@@ -1,0 +1,249 @@
+{
+    "EventBaseInfo": {
+        "Action": "Pulse",
+        "Code": "TrafficJunction",
+        "Index": 0
+    },
+    "CommInfo": {
+        "Country": "ARG",
+        "ParkType": 0,
+        "Province": null,
+        "SnapCategory": null,
+        "VehicleBody": {
+            "Height": 0,
+            "Length": 0,
+            "Offset": 0,
+            "Width": 0
+        },
+        "VehicleTypeInTollStation": null,
+        "BinarizedPlate": {
+            "Height": 30,
+            "Length": 1358,
+            "Offset": 2941172,
+            "Width": 88
+        }
+    },
+    "Object": {
+        "Action": "Appear",
+        "BoundingBox": [
+            3624,
+            5736,
+            3976,
+            5880
+        ],
+        "Category": "Unknown",
+        "Center": [
+            3800,
+            5808
+        ],
+        "Confidence": 218,
+        "Country": "ARG",
+        "Image": {
+            "Height": 39,
+            "Length": 4546,
+            "Offset": 2936626,
+            "Width": 99
+        },
+        "MainColor": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "MainSeat": {
+            "DriverCalling": null,
+            "DriverSmoking": null,
+            "SafeBelt": null
+        },
+        "ObjectID": 70907,
+        "ObjectType": "Plate",
+        "OriginalBoundingBox": [
+            906,
+            1139,
+            994,
+            1166
+        ],
+        "Province": null,
+        "RelativeID": 70907,
+        "SlaveSeat": {
+            "DriverCalling": null,
+            "DriverSmoking": null,
+            "SafeBelt": null
+        },
+        "Speed": 0,
+        "Text": "ULP721",
+        "TrackType": 0,
+        "ValidAnalyseAttributes": 0,
+        "FrameSequence": 12045795,
+        "Source": 544442621456.0
+    },
+    "SceneImage": {
+        "Length": 0,
+        "Offset": 0
+    },
+    "TrafficCar": {
+        "BlackList": {
+            "Enable": false
+        },
+        "CapTime": 0.0,
+        "CarType": null,
+        "CountInGroup": 1,
+        "Country": "ARG",
+        "CustomRoadwayDirection": null,
+        "DefendCode": null,
+        "DetailedAddress": null,
+        "DeviceAddress": null,
+        "Direction": 4,
+        "DrivingDirection": [
+            "Approach",
+            "",
+            ""
+        ],
+        "Event": "TrafficJunction",
+        "GroupID": 1678997615,
+        "IndexInGroup": 1,
+        "Lane": 1,
+        "LowerSpeedLimit": 1,
+        "MachineAddress": null,
+        "MachineName": "ITC352-AF3F-IR8",
+        "OverSpeedMargin": 1,
+        "PhysicalLane": 0,
+        "PlateColor": "Black",
+        "PlateNumber": "ULP721",
+        "PlateType": "Unknown",
+        "RoadwayNo": "",
+        "RouteNo": "",
+        "UnderSpeedMargin": 1,
+        "UpperSpeedLimit": 10,
+        "VehicleColor": "White",
+        "VehicleSign": "GMC",
+        "VehicleSize": "Light-duty",
+        "WhiteList": {
+            "Enable": false,
+            "TrustCar": false
+        },
+        "LaneDescription": 1234,
+        "Speed": 9
+    },
+    "Vehicle": {
+        "Action": "Appear",
+        "BoundingBox": [
+            2992,
+            3160,
+            5200,
+            5912
+        ],
+        "CarLogoIndex": 191,
+        "Category": "Car",
+        "Center": [
+            4096,
+            4536
+        ],
+        "Confidence": 254,
+        "HeadDirection": 0,
+        "MainColor": [
+            255,
+            255,
+            255,
+            0
+        ],
+        "ObjectID": 70907,
+        "ObjectType": "Vehicle",
+        "OriginalBoundingBox": [
+            748,
+            656,
+            1300,
+            1172
+        ],
+        "RelativeID": 70907,
+        "Speed": 0,
+        "SubText": null,
+        "Text": "GMC",
+        "ValidAnalyseAttributes": 0,
+        "VehicleDirection": null,
+        "VehicleTypeInTollStation": null,
+        "ShotFrame": true,
+        "Source": 544442621456.0
+    },
+    "YuvPacket": {
+        "AddrU": 0,
+        "AddrV": 0,
+        "AddrY": 0,
+        "Format": 0,
+        "FrmSeq": 0,
+        "Height": 0,
+        "PhyAddrU": 0,
+        "PhyAddrV": 0,
+        "PhyAddrY": 0,
+        "Priv": 0,
+        "SourceType": 0,
+        "Stride": [
+            0,
+            0,
+            0
+        ],
+        "Width": 0,
+        "YuvPts": 0
+    },
+    "Extension": {
+        "EventLongID": "0220230323205313069909900000"
+    },
+    "Action": "Pulse",
+    "Class": "",
+    "Code": "TrafficJunction",
+    "CountInGroup": 1,
+    "DSTTune": 0,
+    "DetectRegion": [
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ]
+    ],
+    "EncodeSequence": 36557,
+    "EncodeTimes": 0,
+    "EventID": 0,
+    "FrameSequence": 12045927,
+    "FrameStamp": 0,
+    "GroupID": 1678997615,
+    "Index": 0,
+    "IndexInGroup": 1,
+    "JunctionDirection": null,
+    "Lane": 1,
+    "Mark": 0,
+    "Name": "LaneLine1",
+    "ObjectID": 0,
+    "OpenStrobeState": null,
+    "PTS": 47485115220.0,
+    "RuleId": 0,
+    "Sequence": 1,
+    "Source": 3277566640.0,
+    "TimeZone": 13,
+    "TriggerType": 0,
+    "UTC": 1679604793,
+    "UTCMS": 840,
+    "VehicleDirection": null,
+    "VehicleHeadDirection": 0,
+    "ViolationSnapSource": 0,
+    "Direction": "Obverse",
+    "NotSend": false,
+    "OSDFormat": [
+        2048,
+        1536
+    ],
+    "PicType": 0,
+    "RadarSpeedSetTime": 0.0,
+    "RadarSpeedSourceTime": 0.0,
+    "Speed": 9
+}
